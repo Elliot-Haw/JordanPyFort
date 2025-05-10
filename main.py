@@ -1,16 +1,9 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#Things I need the main application to do:
+#Connect to an interface (locally hosted frontend web page - React)
+#Have the main.py connect all of the different APIs together
+#Have the main.py, concatenate all the information using AI, and train it to give recommended market moves
+#Have an organised folder structure, with each API connecting into main
+#Have a web scraping tool which will allow the gathering of information
+#Make it give different information at different times, before market open, close etc
+#Have it come through to my phone
+#Sources - Quiver Quantitive, Etoro Wallets, Trading News Outlets, Warren Buffet, BlackRock wallets etc.
