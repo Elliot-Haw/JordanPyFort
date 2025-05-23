@@ -1,6 +1,7 @@
 #Things I need the main application to do:
 #Connect to an interface (locally hosted frontend web page - React)
-#Have the main.py connect all of the different APIs together
+#Have the main.py connect all the different APIs together, binance, e-toro (follow the trades of larry fink and
+#warren buffet, and the sites that Phantom use for the solana chain
 #Have the main.py, concatenate all the information using AI, and train it to give recommended market moves
 #Have an organised folder structure, with each API connecting into main
 #Have a web scraping tool which will allow the gathering of information
